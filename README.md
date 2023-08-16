@@ -24,4 +24,3 @@ Graduate Platform Engineer:
 - Badminton 🏸
 - Drawing 🎨
 - Games 🎮
----
