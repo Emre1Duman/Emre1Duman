@@ -3,8 +3,8 @@
 
 
 - Based in London and have a BSc in Business Information Systems from the University of Westminster.
-- Shortly after achieving my degree I worked as a Platform engineer where I was exposed to many Cloud and DevOps tools.
-- Keen interests within Cloud, DevOps, Cyber security, Software engineering, IT support and Business.
+- Shortly after achieving my degree, I worked as a Platform engineer where I was exposed to many Cloud and DevOps tools.
+- Keen interests in Cloud, DevOps, Cyber Security, Software engineering, IT support and Business.
 
 #### Experience:
 ---
