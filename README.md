@@ -23,5 +23,6 @@ Graduate Platform Engineer:
 - Photography 📸
 - Video Editing 💻
 - Badminton 🏸
+- Reading 📖
 - Drawing 🎨
 - Games 🎮
